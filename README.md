@@ -1,4 +1,4 @@
-# DIO-Orange-Tech---Livro-de-Receitas
+# LIVRO DE RECEITAS
 
 # * BOLO DE CHOCOLATE SIMPLES
 <br>
