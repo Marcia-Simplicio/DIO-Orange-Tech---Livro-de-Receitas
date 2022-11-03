@@ -1,8 +1,8 @@
-# LIVRO DE RECEITAS ![image](https://user-images.githubusercontent.com/71258083/199817512-eca9ac1f-ab17-4a35-9571-c0e399259d58.png)
-![test image size]<img src="https://fullpath/assets/yourgif.gif" width="400" height="790">
+# [LIVRO DE RECEITAS](https://placehold.it/15/#000080/000000?text=+) <img src="https://cdn-icons-png.flaticon.com/512/1094/1094675.png" width="60" height="40">
 
 
-# * BOLO DE CHOCOLATE SIMPLES
+
+# * Bolo de Chocolate Simples
 <br>
 
 ![image](https://user-images.githubusercontent.com/71258083/199813841-cccf8960-edd9-46ad-a011-51013e67d9ba.png)
@@ -42,7 +42,7 @@ Depois despejar em cima do bolo ainda quente. <br>
  <br>
  <br>
  
-# * TORTA DE LIMÃO
+# * Torta de Limão
 ![Torta de Limão](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT54n1LF2B38HNFy-IBobeaFlzSSFCHtRXfmg&usqp=CAU)
 
 ## Ingredientes <br>
