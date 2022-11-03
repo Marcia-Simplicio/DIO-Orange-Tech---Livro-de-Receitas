@@ -1,14 +1,11 @@
 # DIO-Orange-Tech---Livro-de-Receitas
 
-# *LIVRO DE RECEITAS
+# * BOLO DE CHOCOLATE SIMPLES
 <br>
-# *BOLO DE CHOCOLATE SIMPLES <br> 
+
 ![image](https://user-images.githubusercontent.com/71258083/199813841-cccf8960-edd9-46ad-a011-51013e67d9ba.png)
 
-<br>
-<br>
-## Ingredientes
-<br>
+## Ingredientes <br>
 Massa <br>
 * 3 copos de trigo <br>
 * 2 copos de açucar <br>
@@ -43,10 +40,8 @@ Depois despejar em cima do bolo ainda quente. <br>
  <br>
  <br>
  
-#*TORTA DE LIMÃO
-<br>
+# * TORTA DE LIMÃO
 ![Torta de Limão](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT54n1LF2B38HNFy-IBobeaFlzSSFCHtRXfmg&usqp=CAU)
-<br>
 
 ## Ingredientes <br>
 * 1 pacote de biscoito maisena triturado (200g) <br>
