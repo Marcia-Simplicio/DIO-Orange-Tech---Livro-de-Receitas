@@ -1,8 +1,11 @@
 # DIO-Orange-Tech---Livro-de-Receitas
 
-# *BOLO DE CHOCOLATE SIMPLES*
+# *LIVRO DE RECEITAS
 <br>
-![Bolo de Chocolate Simples](https://moinhoglobo.com.br/wp-content/uploads/2019/03/08-bolo-chocolate-640x427.png)
+# *BOLO DE CHOCOLATE SIMPLES <br> 
+![image](https://user-images.githubusercontent.com/71258083/199813841-cccf8960-edd9-46ad-a011-51013e67d9ba.png)
+
+<br>
 <br>
 ## Ingredientes
 <br>
@@ -40,7 +43,7 @@ Depois despejar em cima do bolo ainda quente. <br>
  <br>
  <br>
  
-#* TORTA DE LIMÃO
+#*TORTA DE LIMÃO
 <br>
 ![Torta de Limão](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT54n1LF2B38HNFy-IBobeaFlzSSFCHtRXfmg&usqp=CAU)
 <br>
